@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dnjonesster88
 - 👀 I’m interested in cats
 - 🌱 I’m currently learning react and d3
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me ...
 
 <!---
